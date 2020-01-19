@@ -1,0 +1,5 @@
+CPF INVALIDO!                                                                                       00011111111111
+CPF EM BRANCO!                                                                                      00000000000000
+CPF DUPLICADO                                                                                       00064439867090
+CPF INVALIDO!                                                                                       00004563210124
+CPF INVALIDO!                                                                                       00074563210134

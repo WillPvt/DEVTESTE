@@ -1,0 +1,7 @@
+       FD ARQ-CLIENTE.
+          01 REGISTRO-CLIENTE.
+             02 CLI-CODIGO            PIC 9(07).
+             02 CLI-CNPJ              PIC 9(14).
+             02 CLI-RAZAO-SOCIAL      PIC X(40).
+             02 CLI-LATITUDE          PIC s9(03)V9(08).
+             02 CLI-LONGITUDE         PIC s9(03)V9(08).

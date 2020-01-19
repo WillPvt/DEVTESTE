@@ -1,0 +1,8 @@
+       FD ARQ-VENDEDOR.
+          01 REGISTRO-VENDEDOR.
+             02 VEN-CODIGO            PIC 9(03).
+             02 VEN-CPF               PIC 9(11).
+             02 VEN-NOME              PIC X(40).
+             02 VEN-LATITUDE          PIC s9(03)V9(08).
+             02 VEN-LONGITUDE         PIC s9(03)V9(08).
+

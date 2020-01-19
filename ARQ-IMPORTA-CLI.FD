@@ -1,0 +1,9 @@
+       FD ARQ-IMPORTA-CLI.
+          01 REG-IMPORTA-CLI.
+             02 IMP-CLI-CODIGO            PIC 9(07).
+             02 IMP-CLI-CNPJ              PIC 9(14).
+             02 IMP-CLI-RAZAO-SOCIAL      PIC X(40).
+             02 IMP-CLI-LATITUDE          PIC s9(03)V9(08).
+             02 IMP-CLI-LONGITUDE         PIC s9(03)V9(08).
+
+

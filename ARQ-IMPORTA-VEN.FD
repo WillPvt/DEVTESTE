@@ -1,0 +1,8 @@
+       FD ARQ-IMPORTA-VEN.
+          01 REG-IMPORTA-VEN.
+             02 IMP-VEN-CODIGO            PIC 9(03).
+             02 IMP-VEN-CPF               PIC 9(11).
+             02 IMP-VEN-RAZAO-SOCIAL      PIC X(40).
+             02 IMP-VEN-LATITUDE          PIC s9(03)V9(08).
+             02 IMP-VEN-LONGITUDE         PIC s9(03)V9(08).
+
